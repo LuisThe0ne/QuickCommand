@@ -1,0 +1,7 @@
+***********
+*  NOTE:  *
+***********
+Fuehren sie bitte die CMD ,damit die Custom Aenderung erscheint ueber den Desktop  aus.
+In anderem Falle wird diese Aenderung NICHT erscheinen.
+
+Fuer weitere Fragen : http://luistheone.net
