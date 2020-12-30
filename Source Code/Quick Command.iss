@@ -28,7 +28,7 @@ InfoBeforeFile="note.txt"
 LicenseFile="license.txt"
 ; Remove the following line to run in administrative install mode (install for all users.)
 
-OutputDir=Setup's\Alpha-V1.0
+OutputDir=Setup's\Alpha-V1.1
 OutputBaseFilename=QuickCommand
 Compression=lzma
 SolidCompression=yes
@@ -47,5 +47,10 @@ Source: "license.txt"; DestDir: "{win}\QuickCommand"; Flags: ignoreversion
 Source: "functions\-date.cmd"; DestDir: "{win}\QuickCommand\functions"; Flags: ignoreversion
 Source: "functions\-time.cmd"; DestDir: "{win}\QuickCommand\functions"; Flags: ignoreversion
 Source: "functions\-trackwww.cmd"; DestDir: "{win}\QuickCommand\functions"; Flags: ignoreversion
+Source: "functions\-speedtest.cmd"; DestDir: "{win}\QuickCommand\functions"; Flags: ignoreversion
+Source: "functions\-sysinfo.cmd"; DestDir: "{win}\QuickCommand\functions"; Flags: ignoreversion
+Source: "blank.cmd"; DestDir: "{win}\QuickCommand\"; Flags: ignoreversion
+Source: "downloadspeedtest.cmd"; DestDir: "{win}\QuickCommand\"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
+
 
