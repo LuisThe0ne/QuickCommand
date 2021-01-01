@@ -1,4 +1,4 @@
-[0001] Url=(1) 
-[0002] Url=(2) 
-[0003] Url=(3) 
+[0001] Url=(https://raw.githubusercontent.com/LuisThe0ne/QuickCommand/main/papmgr/library/test-1.txt) 
+[0002] Url=(https://raw.githubusercontent.com/LuisThe0ne/QuickCommand/main/papmgr/library/test-2.txt) 
+[0003] Url=(https://raw.githubusercontent.com/LuisThe0ne/QuickCommand/main/papmgr/library/test-3.txt) 
  
