@@ -1,6 +1,0 @@
--time (Display's the current time)
--date (Display's the current date)
--status (Display's the current status of your pc)
--trackwww (Track's the Website you enter)
--speedtest (Make's a speedtest)
--sysinfo (Export's the systeminformation to your Desktop, Parameter /CSV /TABLE /LIST)
